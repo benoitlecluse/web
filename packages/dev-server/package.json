@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "lit-html": "^1.3.0",
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.5.0"
   },
   "exports": {
     ".": {
